@@ -21,7 +21,6 @@ for (let i = 0; i < ciudades.length; i++){
     
     document.write(`<li>${ciudades[i]}</li>`)
 
-
 }
 document.write(`</ul>`)
 document.write(`La cantidad de ciudades ingresadas es ${ciudades.length}`)
